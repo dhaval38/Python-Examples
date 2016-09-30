@@ -1,0 +1,7 @@
+<foo>
+    <bar>
+        <type foobar = "1"/>
+        <type foobar = "2"/>
+        <type foobar = "3"/>
+    </bar>
+</foo>
